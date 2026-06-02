@@ -1,0 +1,55 @@
+
+
+h1{
+    color: rgb(255, 111, 0);
+}
+
+th{
+    color: hsl(338, 100%, 50%);
+}
+
+
+/* Element Selector*/
+/*  body{
+    background-color: chartreuse;
+} */
+
+/* universal Selector*/
+ /* *{
+    background-color: aqua;
+} */
+
+/* group Selector*/
+/* h1,p,div{
+background-color: black;
+color: aliceblue;
+} */
+/*
+/* class Selector
+.head1{
+    background-color: rgb(180, 180, 243);
+}
+
+.head2{
+    background-color: rgb(232, 68, 169);
+} */
+
+/* id Selector
+#heading{
+    color: rgb(65, 230, 175);
+} */
+
+
+/*h1{
+color: lab(47.76% 65.69 33.06);
+background-color: rgb(217, 234, 90);
+padding-top: 200px;
+padding-bottom: 200px;
+padding-left: 400px;
+
+/* margin-top:100px;
+margin-left: 400px; */
+} */
+
+
+
